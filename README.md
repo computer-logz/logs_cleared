@@ -41,3 +41,7 @@ PowerShell is a powerful scripting language and administrative framework for Win
 1. To run your script, type in the Windows search bar `Windows Powershell` and right click `Run as adminastrator`. Now use the `cd` command to navigate to your desktop. Once you're on your desktop type `.\logs_cleared.ps1`
 
 2. If you encounter any issues with running the script, you may need to change your script execution policy. You can do this by opening PowerShell as an administrator and running the command: `Set-ExecutionPolicy RemoteSigned`. This allows you to run scripts that you've written and scripts from trusted publishers.
+
+# Example output in Google Sheets
+
+![example](https://github.com/computer-logz/logs_cleared/blob/main/example_output.jpg)
